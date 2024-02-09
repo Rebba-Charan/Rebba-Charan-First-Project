@@ -1,0 +1,172 @@
+body{
+    background-image: url(/images/night-forest-277hlpaxxgixedp1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0%;    
+}
+.headpart{
+    background-color: rgb(26, 187, 47);
+}
+.headpart ul {
+    list-style-type: none;
+    text-align: right; 
+}
+.headpart li{
+    text-decoration: none;
+    display: inline-block; 
+    margin-right: 30px;
+    margin-top: 10px;
+    font-size: 25px;;
+}
+
+#home{
+    background-color: rgba(178, 189, 210, 0.929);
+    text-align: center;
+}
+.hello{
+    align-items: center;}
+.hello img{
+    width: 450px;
+    display: inline-block;
+    border: 5px double rgb(222, 12, 61) ;
+    text-align: center;
+    border-radius: 10%;
+    margin: 100px;
+    margin-right: 100px;
+  
+    
+    
+    
+}
+h1{
+    background-color: rgb(125, 162, 194);   
+}
+.grey{
+    background-color: rgb(226, 142, 14);
+}
+h2{
+    background-color: rgb(99, 94, 196);
+    font-size: 35px;
+}
+.para{
+    text-align: center;
+    padding: 45px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size:35px ;
+    font-style: italic;
+    color: rgb(164, 13, 13);
+   
+}
+.family{
+    text-align: center;
+    padding: 30px;
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size: 35px;
+    font-style: italic;
+    color: rgb(252, 190, 4);
+}
+.edu{
+    color: rgb(211, 126, 23);
+    background-color: blueviolet;
+    text-align: center;
+  
+    font-size: 35px;
+
+}
+.skills{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 35px;
+
+}
+.info{
+    text-align: center;
+    color: blue;
+    background-color: azure;
+}
+.fam{
+    text-align: center;
+    color: blanchedalmond;
+    
+}
+.green{
+    color: rgb(11, 135, 94);
+
+}
+.rc{
+    color: rgb(23, 23, 201);
+}
+.iit{
+    color: rgb(223, 223, 40);
+}
+
+    
+
+
+#skills li {
+    font-size: 25px;
+    padding-top: 25px;
+    color: rgb(165, 193, 45);
+    list-style-position: inside;
+    list-style: circle;
+    
+
+
+}
+table,th,td{
+    border: solid 3px;
+    border-collapse: collapse;
+
+}
+table{
+    width: 100%;
+    
+    
+}
+th{
+    height: 50px;
+    font-size: 25px;
+    background-color: rgb(226, 131, 43);
+}
+td{
+    text-align: center;
+    font-size: 30px;
+    background-color: aliceblue;
+    
+}
+.heading{
+     text-align: center;
+     font-size: 40px;
+     color: rgb(45, 213, 23);
+     background-color: brown;
+     border-width: 50px;
+
+
+}
+.intro{
+    text-align: center;
+    font-size: 70px;
+}
+.copy{
+    color: rgb(196, 219, 219);
+}
+.co{
+    font-size: 35px;
+    color: rgba(243, 5, 5, 0.81);
+    background-color: rgb(21, 209, 43);
+
+}
+.contact ol{
+    list-style-type: none;
+    text-align: left;
+}
+.contact li{
+    display: flex;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+
